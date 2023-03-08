@@ -1,0 +1,3 @@
+C:\Users\DELL\Desktop\Project CricBuzz\CricBuzz\Debug\CricBuzz.exe
+D:\C++ CODES\OOP\Project CricBuzz\CricBuzz\Debug\CricBuzz.exe
+D:\UNIVERSITY\C++ CODES\OOP\Project CricBuzz\CricBuzz\Debug\CricBuzz.exe
